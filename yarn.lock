@@ -1718,6 +1718,11 @@
     "lodash" "^4.17.21"
     "slate" "0.81.1"
 
+"@sanity/production-preview@^2.33.2":
+  "integrity" "sha512-Tv8YAuDjITneydleGFpX06dWa3xHJeczZMI8XQvb4s2nmPoYnNurFi9XCwNT/EGKYR1jrILuI9wFzL92S5K9oQ=="
+  "resolved" "https://registry.npmjs.org/@sanity/production-preview/-/production-preview-2.33.2.tgz"
+  "version" "2.33.2"
+
 "@sanity/react-hooks@2.35.2":
   "integrity" "sha512-PZ2JUdifGrvqsS1T3clKx+ouXFzU6nC2kmKZH5N9yjNedlNmNYR/5mdxXEc8ACCXVc1UyTWoNNWmYN63ko97KA=="
   "resolved" "https://registry.npmjs.org/@sanity/react-hooks/-/react-hooks-2.35.2.tgz"
